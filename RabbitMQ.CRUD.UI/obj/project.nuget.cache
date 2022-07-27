@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JP2iE9KGvTrZTpNsL0b5sZnx81XpT6exZsOCW/VVVgstsT+0VMHot4eTPtNw1OqbQhNWQm0kFRQsGJIHYN2Rqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Somad\\source\\repos\\RabbitMQ.CRUD\\RabbitMQ.CRUD.UI\\RabbitMQ.CRUD.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Somad\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\Somad\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Somad\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

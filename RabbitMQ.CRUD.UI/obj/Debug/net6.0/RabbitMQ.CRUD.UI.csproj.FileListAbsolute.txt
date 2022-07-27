@@ -1,0 +1,17 @@
+C:\Users\Somad\source\repos\RabbitMQ.CRUD\RabbitMQ.CRUD.UI\bin\Debug\net6.0\RabbitMQ.CRUD.UI.exe
+C:\Users\Somad\source\repos\RabbitMQ.CRUD\RabbitMQ.CRUD.UI\bin\Debug\net6.0\RabbitMQ.CRUD.UI.deps.json
+C:\Users\Somad\source\repos\RabbitMQ.CRUD\RabbitMQ.CRUD.UI\bin\Debug\net6.0\RabbitMQ.CRUD.UI.runtimeconfig.json
+C:\Users\Somad\source\repos\RabbitMQ.CRUD\RabbitMQ.CRUD.UI\bin\Debug\net6.0\RabbitMQ.CRUD.UI.dll
+C:\Users\Somad\source\repos\RabbitMQ.CRUD\RabbitMQ.CRUD.UI\bin\Debug\net6.0\RabbitMQ.CRUD.UI.pdb
+C:\Users\Somad\source\repos\RabbitMQ.CRUD\RabbitMQ.CRUD.UI\obj\Debug\net6.0\RabbitMQ.CRUD.UI.csproj.AssemblyReference.cache
+C:\Users\Somad\source\repos\RabbitMQ.CRUD\RabbitMQ.CRUD.UI\obj\Debug\net6.0\RabbitMQ.CRUD.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Somad\source\repos\RabbitMQ.CRUD\RabbitMQ.CRUD.UI\obj\Debug\net6.0\RabbitMQ.CRUD.UI.AssemblyInfoInputs.cache
+C:\Users\Somad\source\repos\RabbitMQ.CRUD\RabbitMQ.CRUD.UI\obj\Debug\net6.0\RabbitMQ.CRUD.UI.AssemblyInfo.cs
+C:\Users\Somad\source\repos\RabbitMQ.CRUD\RabbitMQ.CRUD.UI\obj\Debug\net6.0\RabbitMQ.CRUD.UI.csproj.CoreCompileInputs.cache
+C:\Users\Somad\source\repos\RabbitMQ.CRUD\RabbitMQ.CRUD.UI\obj\Debug\net6.0\RabbitMQ.CRUD.UI.dll
+C:\Users\Somad\source\repos\RabbitMQ.CRUD\RabbitMQ.CRUD.UI\obj\Debug\net6.0\refint\RabbitMQ.CRUD.UI.dll
+C:\Users\Somad\source\repos\RabbitMQ.CRUD\RabbitMQ.CRUD.UI\obj\Debug\net6.0\RabbitMQ.CRUD.UI.pdb
+C:\Users\Somad\source\repos\RabbitMQ.CRUD\RabbitMQ.CRUD.UI\obj\Debug\net6.0\RabbitMQ.CRUD.UI.genruntimeconfig.cache
+C:\Users\Somad\source\repos\RabbitMQ.CRUD\RabbitMQ.CRUD.UI\obj\Debug\net6.0\ref\RabbitMQ.CRUD.UI.dll
+C:\Users\Somad\source\repos\RabbitMQ.CRUD\RabbitMQ.CRUD.UI\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\Somad\source\repos\RabbitMQ.CRUD\RabbitMQ.CRUD.UI\obj\Debug\net6.0\RabbitMQ.CRUD.UI.csproj.CopyComplete
